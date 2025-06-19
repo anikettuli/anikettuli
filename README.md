@@ -82,7 +82,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anikettuli&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues,contribs" alt="Aniket's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anikettuli&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues,contribs&count_private=true" alt="Aniket's GitHub Stats"/>
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettuli&layout=compact&theme=radical" alt="Aniket's Top Languages"/>
 </p>
